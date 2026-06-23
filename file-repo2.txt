@@ -1,1 +1,2 @@
 line2 added into file-repo2.txt
+line 3 added into local master
